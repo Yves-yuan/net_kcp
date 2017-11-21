@@ -1,6 +1,6 @@
 /*
 	日期: 2017-07-08
-	作者: Long Heng
+	作者: Yuan
 	功能: CRecvPacket包装一个已经反序列化好的数据包, CRecvPacket实例有反序列化线程实例化
 	      发送到逻辑处理队列.
 */

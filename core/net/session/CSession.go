@@ -1,6 +1,6 @@
 /*
   Copyright (C), 2006-2010, 8760 Tech. Co., Ltd.
-  作    者: Long Heng
+  作    者: Yuan
   版    本: v1
   完成日期: 2017-07-08
   功能描述:玩家Session抽象

@@ -1,6 +1,6 @@
 /*
 	日期: 2017-07-10
-	作者: Long Heng
+	作者: Yuan
 	功能: 作为二进制传输协议的基类，定义了将各种基础类型(int,uint32,uint64,uint16)等写入缓冲区的函数
 */
 package binary

@@ -1,6 +1,6 @@
 /*
 	日期: 2017-07-07
-	作者: Long Heng
+	作者: Yuan
 	功能: KCP Server启动器, 启动时需要根据客户端的编解码设置不同的Decoder/Encoder
 */
 package net
